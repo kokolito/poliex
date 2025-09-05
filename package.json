@@ -1,9 +1,9 @@
 {
-  "name": "polex",
+  "name": "poliex",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kokolito/polex.git"
+    "url": "https://github.com/kokolito/poliex.git"
   },
   "description": "Polish expressions.",
   "main": "index.js",
