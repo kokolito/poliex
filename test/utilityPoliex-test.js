@@ -4,10 +4,6 @@ const poliex = require("../index.js");
 const jsonUnitTest = require("json-unit-test");
 const { coucou, stampmany } = require("poliex-data-for-testing");
 
-// const input = stampmany.stampmany_five_proof_transformed;
-// const output = poliex.createTree(input);
-// console.log(JSON.stringify(output, null, 2));
-
 const dataToBeTested = [
   {
     name_of_unit_test: "Test of deepCopy",
