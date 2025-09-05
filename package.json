@@ -1,0 +1,20 @@
+{
+  "name": "polex",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kokolito/polex.git"
+  },
+  "description": "Polish expressions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "polish",
+    "expression",
+    "json"
+  ],
+  "author": "Kolia Cadonici",
+  "license": "ISC"
+}
